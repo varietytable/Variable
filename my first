@@ -1,0 +1,47 @@
+//C# prototype: I have yet to finish fully
+BaseBall Game Mini: RPG Style'd
+Rpg Controls/Player Controls:
+PlayerOnly
+
+
+Overworld with dialouge:
+NPC 1:
+Console.WriteLine("Sure is a nice day to play Baseball!")
+Console.ReadKey;
+
+NPC 2:
+Console.WriteLine("My Father is really famous")
+Console.ReadKey;
+
+NPC 3:
+Console.WriteLine("I have to buy peanuts before they're sold out")
+Console.ReadKey
+
+Exchange Ticketer:
+
+static void main(string) [args])
+
+Console.WriteLine("Hello, would you like to purchase a ticket?");
+
+//I have to learn conditions and variables before i can cross this point.
+//if a certain option is chosen, it's purchased, and ends if not 
+
+
+Purchase Ticket:
+condition that changes dialouge when ticket is purchased
+Console.WriteLine("Alright, enjoy")
+
+//change level
+
+Change overworld:
+change to game
+
+Experience Game:
+Auto condition that allows game to play itself
+
+Condition that allows you to exit when you're finished
+//press key to end game
+//just baseball sounds
+Enjoy:
+credits
+
